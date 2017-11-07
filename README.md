@@ -13,14 +13,14 @@ Ederaildo Fontes
 
 * Python 2.7.12
 * Sublime Text
-* [Unittest Framework] (https://docs.python.org/3/library/unittest.html)
+* [Unittest Framework](https://docs.python.org/3/library/unittest.html)
 
 ## Pré Requisitos
 
 Para execução será necessário:
 
 * Python 2.7.* ou maior
-* [Unittest - Unit Test Framework] (https://docs.python.org/3/library/unittest.html)
+* [Unittest - Unit Test Framework](https://docs.python.org/3/library/unittest.html)
 
 ## Execução
 
